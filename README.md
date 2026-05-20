@@ -1,7 +1,7 @@
 # retail-sales-sql-analysis
 
 ## Project Overview 
-This project analyzes transaction data regarding sales using SQL in SQLiteStudio. The goal was to clean raw sales data, standardize formatting, and extract business insights related to revenue performance, department categories, and discount impacts.
+This project analyzes transaction data regarding sales using SQL in SQLiteStudio. The goal was to clean raw sales data, standardize formatting, and extract business insights related to revenue performance, department categories, and discount impacts for big box companies during the years 2024 and 2025.
 The project demonstrates SQL skills including data cleaning, transformation, validation, and exploratory analysis.
 
 ---
