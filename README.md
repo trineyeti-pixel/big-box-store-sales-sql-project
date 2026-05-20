@@ -51,6 +51,11 @@ The final dataset used for the analysis included:
 - Customers are saving a lot of money per transaction. With an average discount of 6.6 percent and average savings being 1096 dollars, it is safe to assume that     the average transaction value is very high.
 
 ---
+## Final Dashboard Visualization
+
+[Project.pdf](https://github.com/user-attachments/files/28068557/Project.pdf)
+
+---
 
 ## Tools Used
 - SQLiteStudio
