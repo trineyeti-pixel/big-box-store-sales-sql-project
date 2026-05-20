@@ -53,7 +53,8 @@ The final dataset used for the analysis included:
 ---
 ## Final Dashboard Visualization
 
-![Project.pdf](https://github.com/user-attachments/files/28068557/Project.pdf)
+<img width="1463" height="844" alt="image" src="https://github.com/user-attachments/assets/e6015c92-b2de-4a2d-9827-81cae5af0b9a" />
+
 
 ---
 
